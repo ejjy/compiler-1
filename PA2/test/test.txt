@@ -1,0 +1,8 @@
+====
+touch
+"this is a test string
+and this is a new line"
+"this is another one \
+        that uses a new line."
+"last one: \\n how to deal that"
++ - * /
